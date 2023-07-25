@@ -1,0 +1,8 @@
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.exe.config
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.exe
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.pdb
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.exe
+C:\Users\Ismael\source\repos\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.pdb
